@@ -1,0 +1,9 @@
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\bin\Debug\LoopeiWebService.ServiceModel.dll
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\bin\Debug\LoopeiWebService.ServiceModel.pdb
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\obj\Debug\LoopeiWebService.ServiceModel.csprojAssemblyReference.cache
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\obj\Debug\LoopeiWebService.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\obj\Debug\LoopeiWebService.ServiceModel.csproj.CopyComplete
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\obj\Debug\LoopeiWebService.ServiceModel.dll
+C:\Users\xiaoxuan.li\source\repos\LoopeiService\LoopeiWebService\LoopeiWebService.ServiceModel\obj\Debug\LoopeiWebService.ServiceModel.pdb
